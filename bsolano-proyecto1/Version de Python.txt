@@ -1,2 +1,0 @@
-Version de Python:
-Python 3.6.5
